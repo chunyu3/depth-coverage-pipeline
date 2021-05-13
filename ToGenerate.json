@@ -1,0 +1,9 @@
+{
+  "resources": [],
+  "resourcelist": "",
+  "jsonFilelist": [],
+  "onboardType": "dev",
+  "RPName": "testcodegenRP",
+  "readmeFile": "",
+  "target": "terraform"
+}
