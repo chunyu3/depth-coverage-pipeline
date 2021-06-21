@@ -1,0 +1,5 @@
+variables:
+  SDK: terraform
+  stages:
+    - Setup
+    - CodeGenerate
