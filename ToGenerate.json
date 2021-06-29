@@ -1,0 +1,25 @@
+{
+  "serviceType": "resource-manager",
+  "resources": [],
+  "resourcelist": "",
+  "onboardType": "dev",
+  "swaggerRepo": {
+    "type": "github",
+    "path": "https://github.com/Azure/azure-rest-api-specs",
+    "branch": "master"
+  },
+  "sdkRepo": {
+    "type": "github",
+    "path": "https://github.com/microsoft/terraform-provider-azurerm",
+    "branch": "pipeline"
+  },
+  "codegenRepo": {
+    "type": "github",
+    "path": "https://github.com/Azure/depth-coverage-pipeline",
+    "branch": "main"
+  },
+  "jsonFileList": [],
+  "RPName": "testcodegenRP",
+  "readmeFile": "",
+  "target": "terraform"
+}
