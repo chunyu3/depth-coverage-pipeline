@@ -1,0 +1,4 @@
+variables:
+  CodeGenerationName: dev-terraform-testcodegenRP
+  SDK: terraform
+  stages: Setup;GenerateCode;Build;MockTest;LiveTest
